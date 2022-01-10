@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635807105457",
+    "project_id": "kasida-e6464",
+    "storage_bucket": "kasida-e6464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635807105457:android:e6c1d223e66f1377617d90",
+        "android_client_info": {
+          "package_name": "com.example.kasida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635807105457-3d67s9ncqqnfhtr0jtlji6c9r50oldqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgCGVLINYIk5QgeX2kNz0jpH2lOJIdOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635807105457-3d67s9ncqqnfhtr0jtlji6c9r50oldqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
