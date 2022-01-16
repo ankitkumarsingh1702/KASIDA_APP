@@ -15,6 +15,8 @@ class Kasida_product_for_users_2 : AppCompatActivity() {
     private lateinit var button_9: Button
     private lateinit var button_10: Button
 
+    private lateinit var button_forward_2: Button
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_kasida_product_for_users2)
@@ -24,17 +26,17 @@ class Kasida_product_for_users_2 : AppCompatActivity() {
         val text_product7_description: TextView = findViewById( R.id.text_product7_description)
 
         text_product7_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product7_description.setLinkTextColor(Color.BLUE)
+        text_product7_description.setLinkTextColor(Color.BLACK)
 
         val text_product8_description: TextView = findViewById( R.id.text_product8_description)
 
         text_product8_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product8_description.setLinkTextColor(Color.BLUE)
+        text_product8_description.setLinkTextColor(Color.BLACK)
 
         val text_product9_description: TextView = findViewById( R.id.text_product9_description)
 
         text_product9_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product9_description.setLinkTextColor(Color.BLUE)
+        text_product9_description.setLinkTextColor(Color.BLACK)
 
         button_8 = findViewById(R.id.btn_8)
 
@@ -56,6 +58,14 @@ class Kasida_product_for_users_2 : AppCompatActivity() {
 
         button_10.setOnClickListener {
             val intent = Intent(this, Kasida_taking_input_from_users::class.java)
+
+            startActivity(intent)
+        }
+
+        button_forward_2 = findViewById(R.id.btn_forward_2)
+
+        button_forward_2.setOnClickListener {
+            val intent = Intent(this,Kasida_product_for_users_3::class.java)
 
             startActivity(intent)
         }

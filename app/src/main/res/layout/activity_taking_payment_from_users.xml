@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Taking_payment_from_users">
+    tools:context=".Kasida_taking_input_from_users">
 
 </androidx.constraintlayout.widget.ConstraintLayout>

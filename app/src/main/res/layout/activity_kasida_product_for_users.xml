@@ -5,26 +5,30 @@
     android:layout_width="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="#ffe6ff"
+    android:background="#fff"
     android:layout_height="match_parent"
     tools:context=".Kasida_product_for_users">
 
     <androidx.cardview.widget.CardView
-        android:layout_width="400dp"
+        android:layout_width="350dp"
         android:layout_height="200dp"
         android:padding="10dp"
         android:paddingTop="4dp"
+        android:layout_marginTop="5dp"
         app:cardElevation="50dp"
         app:cardCornerRadius="50dp">
 
         <LinearLayout
+            android:background="#FFEB3B"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <ImageView
-                android:layout_width="100dp"
-                android:layout_height="130dp"
+                android:layout_width="120dp"
+                android:background="#fff"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
                 android:src="@drawable/kasida_vegetable_bag"
                 android:layout_gravity="center_horizontal"/>
 
@@ -37,7 +41,7 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="15dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="5dp"/>
 
             <TextView
                 android:id="@+id/text_product1_description"
@@ -50,7 +54,8 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="10dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
 
             <Button
                 android:id="@+id/btn_3"
@@ -69,21 +74,24 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:layout_marginTop="8dp"
-        android:layout_width="400dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="350dp"
         android:layout_height="200dp"
         android:padding="10dp"
         app:cardElevation="50dp"
         app:cardCornerRadius="50dp">
 
         <LinearLayout
+            android:background="#E91E63"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <ImageView
-                android:layout_width="100dp"
-                android:layout_height="130dp"
+                android:layout_width="120dp"
+                android:background="#fff"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
                 android:layout_gravity="center_horizontal"
                 android:src="@drawable/kasida_jute_bag_storage" />
 
@@ -96,7 +104,7 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="15dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="5dp"/>
 
             <TextView
                 android:id="@+id/text_product2_description"
@@ -109,7 +117,8 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="10dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
 
             <Button
                 android:id="@+id/btn_1"
@@ -128,21 +137,25 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:layout_width="400dp"
+        android:layout_width="350dp"
         android:layout_height="200dp"
         android:padding="10dp"
         app:cardElevation="50dp"
         app:cardCornerRadius="50dp"
-        android:layout_marginTop="8dp">
+        android:layout_marginTop="15dp">
 
         <LinearLayout
+
+            android:background="#2196F3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <ImageView
-                android:layout_width="100dp"
-                android:layout_height="130dp"
+                android:layout_width="120dp"
+                android:background="#fff"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
                 android:src="@drawable/kasida_generaluse_bag_jute"
                 android:layout_gravity="center_horizontal"/>
 
@@ -155,7 +168,7 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="15dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="5dp"/>
 
             <TextView
                 android:id="@+id/text_product3_description"
@@ -168,7 +181,8 @@
                 android:fontFamily="sans-serif-black"
                 android:textSize="10dp"
                 android:textColor="@color/black"
-                android:layout_marginTop="2dp"/>
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
 
             <Button
                 android:id="@+id/btn_4"

@@ -46,7 +46,7 @@ class Kasida_taking_input_from_users : AppCompatActivity(), PaymentResultListene
         val text_contact_of_users : TextView = findViewById( R.id.text_contact_of_users)
 
         text_contact_of_users.movementMethod = LinkMovementMethod.getInstance()
-        text_contact_of_users.setLinkTextColor(Color.BLUE)
+        text_contact_of_users.setLinkTextColor(Color.BLACK)
 
 
 

@@ -45,6 +45,32 @@
         \n<ul><li><a href="https://drive.google.com/file/d/1Vtfahfn_OIBEgpPltFEPDwb9zRdA5Esn/view?usp=sharing">CLICK HERE>>
         </a></li></ul>
     </string>
+    <string name="text_radha_canvas">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/17kS5YfaGaFxDGkZkDuXgm9Qy2360EnizmFlhwR7v16Q/edit?usp=sharing">View Details
+        </a></li></ul>
+     </string>
+    <string name="text_wine_canvas">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1Lj0vh04h825MjliljFFWwsaYR9j6qwJnn8ieB2XU3uE/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_canva_women">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1s6nN0tzo2YJczpmjV1Twf4Xo3eXmH-rrCr9-21Uwbkc/edit?usp=sharing">View Details
+        </a></li></ul>
+     </string>
+    <string name="text_canva_tower">
+        \n<ul><li><a href="  https://docs.google.com/presentation/d/1wN4cEO7vvMcb76YxrNK-t_Ikp7PupXpaH-mmY92nEzo/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_canva_floral">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1BMwBM_5811BXdKgwLUm9LgctGz3LOQNKSo4VSRya2GQ/edit?usp=sharing">View Details
+        </a></li></ul>
+     </string>
+    <string name="text_canva_artscenery">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1h0m1tHibdHdxsLyqtLkZKrKnZizszMYTKDkqEaXUD7U/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

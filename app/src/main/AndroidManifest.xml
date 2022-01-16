@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kasida" >
+    package="com.example.kasida">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,7 +10,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Kasida" >
+        android:theme="@style/Theme.Kasida">
+        <activity
+            android:name=".Kasida_product_for_users_5"
+            android:exported="false" />
+        <activity
+            android:name=".kashida_product_of_users_4"
+            android:exported="false" />
+        <activity
+            android:name=".userfirstpage_options_painting_bags"
+            android:exported="false" />
+        <activity
+            android:name=".Kasida_product_for_users_3"
+            android:exported="false" />
         <activity
             android:name=".Feedback_kasida"
             android:exported="false" />
@@ -23,7 +35,7 @@
         <activity
             android:name=".splash_screen_kasida"
             android:exported="true"
-            android:theme="@style/Theme.Design.Light.NoActionBar" >
+            android:theme="@style/Theme.Design.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

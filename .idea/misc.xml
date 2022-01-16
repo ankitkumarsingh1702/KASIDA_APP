@@ -8,9 +8,12 @@
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/drawable/edt_background.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/drawable/gradient_1.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_feedback_kasida.xml" value="0.25" />
-        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users.xml" value="0.25" />
-        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users1.xml" value="0.25" />
-        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users2.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kashida_product_of_users4.xml" value="0.264" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users.xml" value="0.39553752535496955" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users1.xml" value="0.4" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users2.xml" value="0.264" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users3.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_product_for_users5.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_kasida_taking_input_from_users.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_main.xml" value="0.25" />
@@ -18,7 +21,10 @@
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_splash_screen_kasida.xml" value="0.25" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_taking_payment_from_users.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/activity_userfirstpage_options_painting_bags.xml" value="0.2359375" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/each_row.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/fragment_add.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/layout/fragment_list.xml" value="0.21739130434782608" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/jhumm/AndroidStudioProjects/Kasida2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24166666666666667" />
       </map>

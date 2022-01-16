@@ -25,17 +25,17 @@ class Kasida_product_for_users_1 : AppCompatActivity() {
         val text_product4_description: TextView = findViewById( R.id.text_product4_description)
 
         text_product4_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product4_description.setLinkTextColor(Color.BLUE)
+        text_product4_description.setLinkTextColor(Color.BLACK)
 
         val text_product6_description: TextView = findViewById( R.id.text_product6_description)
 
         text_product6_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product6_description.setLinkTextColor(Color.BLUE)
+        text_product6_description.setLinkTextColor(Color.BLACK)
 
         val text_product5_description: TextView = findViewById( R.id.text_product5_description)
 
         text_product5_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product5_description.setLinkTextColor(Color.BLUE)
+        text_product5_description.setLinkTextColor(Color.BLACK)
 
         button_5 = findViewById(R.id.btn_5)
 

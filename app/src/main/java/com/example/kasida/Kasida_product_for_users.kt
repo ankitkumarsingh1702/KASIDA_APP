@@ -27,18 +27,18 @@ class Kasida_product_for_users : AppCompatActivity() {
         val text_product3_description: TextView = findViewById( R.id.text_product3_description)
 
         text_product3_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product3_description.setLinkTextColor(Color.BLUE)
+        text_product3_description.setLinkTextColor(Color.BLACK)
 
 
         val text_product1_description: TextView = findViewById( R.id.text_product1_description)
 
         text_product1_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product1_description.setLinkTextColor(Color.BLUE)
+        text_product1_description.setLinkTextColor(Color.BLACK)
 
         val text_product2_description: TextView = findViewById( R.id.text_product2_description)
 
         text_product2_description.movementMethod = LinkMovementMethod.getInstance()
-        text_product2_description.setLinkTextColor(Color.BLUE)
+        text_product2_description.setLinkTextColor(Color.BLACK)
 
         button_1 = findViewById(R.id.btn_1)
 
@@ -70,6 +70,7 @@ class Kasida_product_for_users : AppCompatActivity() {
 
         button_forward.setOnClickListener {
             val intent = Intent(this, Kasida_product_for_users_1::class.java)
+
 
             startActivity(intent)
     }
