@@ -45,6 +45,6 @@ Functionality & Concepts used :
 
 Application Link & Future Scope :
 You can access the app : [https://drive.google.com/file/d/19e6uz8JFRgAKL-nku3-kPObSVz44vLJ6/view?usp=sharing]( Github link https://github.com/ankitkumarsingh1702/KASIDA_APP).
-At present, there are only 1300-1400 women who will join this but in the future, we will try to reach different parts of the country and provide this service to them. We can also promote Indian Handicrafts in the Global market in the upcoming years 
+At present, **Around 800-900 womens (including 350 army personal families and 70 war widows) are currently working with us** but in the future, we will try to reach different parts of the country and provide this service to them. We can also promote Indian Handicrafts in the Global market in the upcoming years 
 with the support of the Government,  Market Development Assistance (MDA) Grant and Market Access Initiative (MAI).
  
