@@ -16,24 +16,15 @@ Add Ons:
 2.	 Living a greener lifestyle has never been easy. So this app would only focus on adding earth-friendly products to it.
 3.	This will hype the job opportunities for women. As the Indian handicraft industry has emerged as an essential economic agent revolutionizing the lives of millions of people across the country.
 4.	It's also a social project as some percentage of the price paid will be given to certain NGOs which provide meals to the poor and the needy. As over 140 million daily wage-earners and migrant workers have lost their jobs in economic constriction in the wake of the coronavirus pandemic in India.
-![kasida_01](https://user-images.githubusercontent.com/94732725/149706037-efcc2479-3232-45db-9acf-7e127b21a5b7.jpg)
-![kasida_02](https://user-images.githubusercontent.com/94732725/149706781-962d3054-b532-4d98-8e29-bf9df777b18a.jpg)
-![kasida_03](https://user-images.githubusercontent.com/94732725/149706810-1f05ba51-5282-44b6-b868-81a292fedab8.jpg)
-![kasida_04](https://user-images.githubusercontent.com/94732725/149706818-99a02b77-b77c-4a50-baca-97ad114077a1.jpg)
-![kasida_05](https://user-images.githubusercontent.com/94732725/149706830-6b33fe03-ac72-4790-9222-69ded4b5e604.jpg)
-![kasida_06](https://user-images.githubusercontent.com/94732725/149706838-e284c258-4020-4540-9f80-591226595d2f.jpg)
-![kasida_07](https://user-images.githubusercontent.com/94732725/149706850-6010ed59-4124-48b8-af7a-c583512bc501.jpg)
-![kasida_08](https://user-images.githubusercontent.com/94732725/149706861-22aad18f-85f6-4957-95e8-bfe9e1bf8aa2.jpg)
-![kasida_09](https://user-images.githubusercontent.com/94732725/149706880-9fb53b78-6bfc-454a-bd63-f349f22be1ce.jpg)
-![kasida_10](https://user-images.githubusercontent.com/94732725/149706893-8f6bd62c-0100-47a9-82a3-485e9c15fb38.jpg)
-![kasida_11](https://user-images.githubusercontent.com/94732725/149706899-018ea1fd-bcb6-4700-9c59-9388a811c4de.jpg)
-![kasida_12](https://user-images.githubusercontent.com/94732725/149706905-2edb0a41-9bbb-4926-8487-b1ec6a23af5d.jpg)
-![kasida_13](https://user-images.githubusercontent.com/94732725/149706913-58fbd83e-8c40-4c4f-85b4-8349eb965ca7.jpg)
-![kasida_14](https://user-images.githubusercontent.com/94732725/149706921-2383f66d-acbf-4b45-9baa-f5b48adfc8ca.jpg)
-![kasida_15](https://user-images.githubusercontent.com/94732725/149706929-86bfad68-6c87-47d1-8905-5cd7bba0092b.jpg)
-![kasida_16](https://user-images.githubusercontent.com/94732725/149706934-82ba8e98-310c-4f8c-88f8-2e20f3caa6f9.jpg)
-![kasida_17](https://user-images.githubusercontent.com/94732725/149706945-5ecf3240-7f04-4d56-9a23-c221d4bc28cf.jpg)
-![kasida_18](https://user-images.githubusercontent.com/94732725/149706957-c72ddbad-702f-4f20-bd6f-35a0cef54458.jpg)
+
+
+![kasida_01_interface](https://user-images.githubusercontent.com/94732725/149708726-7da2ee68-e35c-44ee-bf32-ad1627cf2b9d.jpg)
+![kasida_02_interface](https://user-images.githubusercontent.com/94732725/149708728-95b6b55b-075c-430e-8a15-6a36bb470ec0.jpg)
+![kasida_03_interface](https://user-images.githubusercontent.com/94732725/149708732-fcbb8ae9-a1ff-4d97-b86e-cf82a96fc017.jpg)
+![kasida_04_interface](https://user-images.githubusercontent.com/94732725/149708734-842c7321-c140-44d7-818c-c0fcbbd169f4.jpg)
+![kasida_05_interface](https://user-images.githubusercontent.com/94732725/149708736-a0808e4c-68ca-4082-bbda-5d28e70da5e3.jpg)
+
+
 
 Functionality & Concepts used :
 
